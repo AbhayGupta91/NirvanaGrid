@@ -1,4 +1,5 @@
-# ⚡ NirvanaGrid
+# ⚡ NirvaShakti
+
 
 Real-time, mobile-first monitoring of appliance performance—focused on Power Factor (PF)—with Firebase integration and an animated industrial-style gauge.
 
